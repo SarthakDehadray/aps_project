@@ -13,3 +13,12 @@ pip install -r requirements.txt
 ```bash
 python main.py
 ```
+### Step 3 - Git Version
+
+```bash
+git --version
+```
+### Download Dataset
+```bash
+wget <url>
+```
